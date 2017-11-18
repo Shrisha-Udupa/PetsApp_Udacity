@@ -7,5 +7,6 @@ package com.example.android.pets;
 public class EmptyClass {
 
     public EmptyClass() {
+
     }
 }
